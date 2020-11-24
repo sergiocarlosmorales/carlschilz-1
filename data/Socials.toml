@@ -1,0 +1,34 @@
+[[socials]]
+    id = "rss"
+    url = "/rss.xml"
+    icon = "rss"
+    title = "RSS"
+    weight = 1
+
+[[socials]]
+    id = "email"
+    url = "mailto:me@carlschilz.me"
+    icon = "envelope"
+    title = "Email"
+    weight = 2
+
+[[socials]]
+    id = "github"
+    url = "https://github.com/sergiocarlosmorales"
+    icon = "github"
+    title = "GitHub"
+    weight = 3
+
+[[socials]]
+    id = "twitter"
+    url = "https://twitter.com/massivepwnage"
+    icon = "twitter"
+    title = "Twitter"
+    weight = 4
+
+[[socials]]
+    id = "linkedin"
+    url = "https://www.linkedin.com/in/sergiocarlosmoralesangeles"
+    icon = "linkedin"
+    title = "Linked In"
+    weight = 5
