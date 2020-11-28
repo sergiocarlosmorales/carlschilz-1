@@ -333,7 +333,7 @@ uglyURLs = false
     siteLogo = "/icons/apple-touch-icon.png"
     # Note: used for JSON-LD, Open Graph
 
-    siteDescription = "MemE is a powerful and highly customizable GoHugo theme for personal blogs."
+    siteDescription = "Personal notes about what I find useful."
     # Note: used for HTML head meta, JSON-LD,
     #       Open Graph, Atom, RSS
 
