@@ -1,12 +1,11 @@
 ---
 title: "Pi-hole unable to start as container"
-date: 2021-10-03T14:57:21-06:00
+date: 2021-10-03T13:57:21-06:00
 draft: false
 tags:
  - synology
  - container
  - docker
- - apt-get
 
 categories:
  - Hard learned lessons
