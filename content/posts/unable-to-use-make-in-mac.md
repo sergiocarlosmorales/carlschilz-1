@@ -25,7 +25,7 @@ xcode-select: error: command line tools are already installed, use "Software Upd
 ```
 I confirmed there was no 'Software Update' pending, so I hit a wall.
 
-I tried a couple times uninstalling the CLI tools and installing again, but ended up in the same place.
+I tried a couple of times uninstalling the CLI tools and installing again, but ended up in the same place.
 ```shell
 % sudo rm -rf /Library/Developer/CommandLineTools
 Password:
